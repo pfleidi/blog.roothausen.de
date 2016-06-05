@@ -1,0 +1,87 @@
+---
+status: published
+published: true
+title: Medianight 2009
+author:
+  display_name: Sven Pfleiderer
+  login: pfleidi
+  email: sven@roothausen.de
+author_login: pfleidi
+author_email: sven@roothausen.de
+date: 2009-07-01 19:05:24 UTC
+permalink: "/2009/07/01/medianight-2009/"
+categories:
+- computer
+tags:
+- android
+- code
+- computer
+- jabber
+- java
+- linux
+- opensource
+- presentation
+- programming
+- software
+- video
+comments:
+- id: 986
+  author: 'Hai-fai.de : Polzifer''s kleiner Blog '
+  author_email: ''
+  author_url: http://www.hai-fai.de/archives/34-YAXIM-und-die-Medianight.html
+  date: '1246479115'
+  content: 'Sven hats auch schon geblogposted und ich folge auf Schritt und Tritt:
+    Morgen ist die Medianight an der HdM Stuttgart. Ich denke ein muss fuer alle Medien-
+    und Technikbegeisterten, vom Intelligenten Roboterchen, SemSix und unserem Projekt
+    über Drucks'
+- id: 987
+  author: Dirk
+  author_email: alles-was-an-diese-mailadresse-geht-wird-geblogt@schlunzen.org
+  author_url: http://blog.schlunzen.org
+  date: '1247914436'
+  content: Wird YAXIM irgendwann im Market sein, und wenn ja, wird es etwas kosten?
+- id: 988
+  author: pfleidi
+  author_email: blog2@the-pf.e4ward.com
+  author_url: http://blog.roothausen.de
+  date: '1247929504'
+  content: "Um beide Fragen kurz zu beantworten: Ja und Nein.\r\n\r\nWir werden Yaxim
+    kostenlos im Market vertreiben und als freie Software unter GPL (wahrscheinlich
+    v2) stellen.\r\n\r\nLeider sind wir beide momentan im Prüfungsstress und werden
+    die Arbeiten an Yaxim erst wieder gegen August aufnehmen koennen."
+- id: 989
+  author: Dirk
+  author_email: alles-was-an-diese-mailadresse-geht-wird-geblogt@schlunzen.org
+  author_url: http://blog.schlunzen.org
+  date: '1247946664'
+  content: "Danke für die schnelle und erhoffte Antwort ;) Das wurde auf den Folien
+    zwar als Stichpunkt angegeben, war mir aber so nicht ganz klar ;)\r\n\r\nViel
+    Erfolg euch beiden bei den Prüfungen!"
+- id: 993
+  author: Mike
+  author_email: mike@free.fr
+  author_url: ''
+  date: '1249135126'
+  content: "Großartig :)\r\n\r\nEinen anderen offenen XMPP client gibts doch auch
+    noch gar nicht, oder?\r\n\r\nHabe mir erstmal stark gewundert, wie Android alles
+    OpenSource ist, aber das SDK nicht. Na klasse, aber dafür könnt ihr ja nix ;)\r\n\r\nDabei
+    ist es doch gerade so, dass der Entwickler OS will, dem Endnutzer ist es aber
+    eher egal."
+- id: 1035
+  author: Dirk
+  author_email: spam@0x7be.de
+  author_url: https://0x7be.de
+  date: '1281266221'
+  content: So … Ein Jahr später … Wie sieht’s an der YAXIM-Front aus? :)
+---
+## Medianight
+
+Morgen, am Donnerstag den 02.07.2009 wird an meiner [Hochschule](http://www.hdm-stuttgart.de "HdM Stuttgart") wieder die [Medianight](http://www.hdm-stuttgart.de/medianight/ "Medianight") stattfinden. Hier werden die Studenten ihre Projekte des letzten Semesters praesentieren. Ich werde dort unter anderem mit meinem eigenen Projekt am Start sein.
+
+### YAXIM
+
+Wie schon zuvor gesagt, werde ich zusammen mit [Chris](http://hai-fai.de "Chris sein Blog") unser Semesterprojekt, das den Namen YAXIM traegt, vorstellen. YAXIM steht fuer " **Y** et **A** nother **X** MPP **I** nstant **M** essenger" und ist ein Jabberclient fuer die Android-Plattform. Als kleinen Vorgeschmack folgen hier noch unsere [Folien](/uploads/presentations/yaxim.pdf "Yaxim") und [das Video](/uploads/videos/yaxim-final.mp4 "Yaxim Video") der heutigen Praesentation:
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/4O80xIpCEss" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ElVMpKNFMKAtAy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pfleidi/yaxim-yet-another-xmpp-instant-messenger" title="YAXIM - Yet Another XMPP Instant Messenger" target="_blank">YAXIM - Yet Another XMPP Instant Messenger</a> </strong> from <strong><a href="//www.slideshare.net/pfleidi" target="_blank">pfleidi</a></strong> </div>
